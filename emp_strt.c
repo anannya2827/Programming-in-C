@@ -24,7 +24,7 @@ int main(){
    printf("The details are:");
    for(int i=0;i<n;i++){
       printf("Name:%s",s[i].name);
-      printf("\nRoll no:%d",s[i].id);
+      printf("\nID no:%d",s[i].id);
       printf("\nSalary:%f\n",s[i].salary);
       printf("\n");
    }
